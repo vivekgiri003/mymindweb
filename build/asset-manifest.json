@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19869324.css",
+    "main.js": "/static/js/main.7c6a7b93.js",
+    "static/media/star.png": "/static/media/star.d1a5082e6f9203be6db4.png",
+    "static/media/find.png": "/static/media/find.d44f3923e9c931147671.png",
+    "static/media/thinking.png": "/static/media/thinking.e6f2bfd3e7f0b37c91dc.png",
+    "static/media/face.png": "/static/media/face.e1191faf2857efacb1bc.png",
+    "static/media/clap.png": "/static/media/clap.60637995066744c5f33a.png",
+    "static/media/sad.png": "/static/media/sad.6a3a8880a83828feb1ec.png",
+    "static/media/pen.png": "/static/media/pen.a235fb72954280d80f0b.png",
+    "static/media/wave.png": "/static/media/wave.b929e3c352b8e1fe54fe.png",
+    "static/media/Lora-SemiBold.ttf": "/static/media/Lora-SemiBold.bc7f741788186526098e.ttf",
+    "static/media/thumbs-up.png": "/static/media/thumbs-up.913fe21317771852c494.png",
+    "static/media/NunitoSans_10pt-Regular.ttf": "/static/media/NunitoSans_10pt-Regular.7a5b1e324beb1081259a.ttf",
+    "static/media/NunitoSans_10pt-SemiBold.ttf": "/static/media/NunitoSans_10pt-SemiBold.39af491f33e04d1f69b6.ttf",
+    "static/media/NunitoSans_10pt-Bold.ttf": "/static/media/NunitoSans_10pt-Bold.e43c5a897c0189a89b62.ttf",
+    "static/media/bicep.png": "/static/media/bicep.19170da2ceff80a47043.png",
+    "static/media/mh-foundation.png": "/static/media/mh-foundation.e1deb748c059ce83a5fb.png",
+    "static/media/positive-news.jpg": "/static/media/positive-news.88f52f7512a56545a8de.jpg",
+    "static/media/good-news-network.jpg": "/static/media/good-news-network.f5b2d6a2cec48dd76f66.jpg",
+    "static/media/mind.png": "/static/media/mind.6ebd823b26181818890c.png",
+    "static/media/NHS.png": "/static/media/NHS.866a2654babdb869c564.png",
+    "static/media/happy-news.png": "/static/media/happy-news.30de448ebd7bdc537b2e.png",
+    "static/media/reasons-cheerful.jpg": "/static/media/reasons-cheerful.7ff455faddb98421e1ca.jpg",
+    "static/media/re-think.svg": "/static/media/re-think.242adc71e3741d6df95b99f152a5d70c.svg",
+    "static/media/calm.jpg": "/static/media/calm.26f5a6156026e8e2df1a.jpg",
+    "static/media/mh-matters.svg": "/static/media/mh-matters.00772c24b04451768ab5507418b2a7bf.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/search.svg": "/static/media/search.13cabfe98ac1cd0af72f.svg",
+    "index.html": "/index.html",
+    "main.19869324.css.map": "/static/css/main.19869324.css.map",
+    "main.7c6a7b93.js.map": "/static/js/main.7c6a7b93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19869324.css",
+    "static/js/main.7c6a7b93.js"
+  ]
+}
